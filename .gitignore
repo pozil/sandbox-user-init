@@ -1,0 +1,24 @@
+# Custom metadata records
+**/main/default/customMetadata
+
+# DX Project config
+/config
+
+# Credentials
+/jwt
+
+# IDE tooling
+.vscode/
+
+# Salesforce cache
+.sfdx/
+.localdevserver/
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
