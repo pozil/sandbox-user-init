@@ -7,7 +7,7 @@ global class PrepareSandbox implements SandboxPostCopy {
 
     /**
      * Runs some logic after a sandbox is created:
-     * create a user with the System Administrator profile
+     * create users with the System Administrator profile
      */
     global void runApexClass(SandboxContext context) {
         // Get system admin profile
